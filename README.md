@@ -1,7 +1,7 @@
 # Os 10 Melhores Filmes - Imersão Dev com Google Gemini
 
 ## Descrição
-Este projeto web é uma aplicação simples que permite pesquisar detalhes sobre os melhores filmes já produzidos, de acordo o site Rotten Tomatoes. Ao digitar um termo de busca, a aplicação exibe os filmes da lista, incluindo título, ano de lançamento, diretor, gênero, resumo, e onde assitir.
+Este projeto web é uma aplicação simples que permite pesquisar detalhes sobre os melhores filmes já produzidos, de acordo o site Rotten Tomatoes. Ao digitar um termo de busca, a aplicação exibe os filmes da lista, incluindo título, ano de lançamento, diretor, gênero, resumo e onde assitir.
 
 ## Tecnologias Utilizadas
 * **HTML:** Estrutura básica da página.
